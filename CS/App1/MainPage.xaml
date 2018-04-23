@@ -1,0 +1,16 @@
+﻿<Layout:DXPage xmlns:Grid="using:DevExpress.UI.Xaml.Grid" 
+    x:Name="pageRoot"
+    x:Class="App1.View.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:App1"
+    xmlns:Layout="using:DevExpress.UI.Xaml.Layout"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Grid:GridControl Name="grid"/>
+    </Grid>
+
+</Layout:DXPage>
