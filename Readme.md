@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [NavigationTypeProvider.cs](./CS/App1/Common/NavigationTypeProvider.cs)
+* [StandardStyles.xaml](./CS/App1/Common/StandardStyles.xaml) (VB: [StandardStyles.xaml](./VB/App1/Common/StandardStyles.xaml))
+* [MainPage.xaml](./CS/App1/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/App1/MainPage.xaml.vb))
+* [MainPage.xaml.cs](./CS/App1/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/App1/MainPage.xaml.vb))
+* [Reference.cs](./CS/App1/Service References/ServiceReference1/Reference.cs) (VB: [Reference.vb](./VB/App1/Service References/ServiceReference1/Reference.vb))
+* [IService1.cs](./CS/WebApplication1/IService1.cs) (VB: [IService1.vb](./VB/WebApplication1/IService1.vb))
+* [Service1.svc.cs](./CS/WebApplication1/Service1.svc.cs) (VB: [Service1.svc.vb](./VB/WebApplication1/Service1.svc.vb))
+<!-- default file list end -->
 # How to: Load data dynamically using AsyncCollection
 
 
